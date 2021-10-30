@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "testproject-35b2e": {
+      "hosting": {
+        "testProject": [
+          "testproject-35b2e"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "testproject-35b2e"
+  }
+}
